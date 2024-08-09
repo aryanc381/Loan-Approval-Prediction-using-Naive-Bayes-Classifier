@@ -1,6 +1,10 @@
 # Loan Eligibility Prediction using Naive Bayes Classifier
+![Python](https://img.shields.io/badge/Python-3.12.4-blueviolet)
+![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-fcba03)
+![Colab](https://img.shields.io/badge/Editor-GColab-blue)
 
-This project aims to predict the loan eligibility of individuals using a Naive Bayes Classifier (NBC). The model is built and evaluated using various features of the dataset to determine the eligibility of loan applicants.
+![intro](https://agrimhfc.com/wp-content/uploads/2023/09/agrim_post_02.jpg)
+This project aims to predict the loan eligibility of individuals using a Naive Bayes Classifier (NBC). The model is built and evaluated using va1rious features of the dataset to determine the eligibility of loan applicants.
 
 ## Project Overview
 
@@ -69,16 +73,9 @@ jupyter notebook main.ipynb
 
 ## Results
 
-The model's performance is evaluated using various metrics, providing insights into its accuracy and reliability in predicting loan eligibility. Detailed results and visualizations are included in the Jupyter Notebook.
+The model's performance is evaluated using various metrics, providing insights into its accuracy and reliability in predicting loan eligibility. Detailed results and visualizations are included in the Jupyter Notebook. The accuracy of model on test data was ```81.02%```.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
+## Contributions
+Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request. You can also email me at the mail I have given in the profile section of my github.
 
 ---
-
-Feel free to customize this README file further based on specific details and preferences for your project.
